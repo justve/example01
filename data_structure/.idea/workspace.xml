@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44022221-f34f-48c1-9565-32490d8c35bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1mpJ1tRSp7XPPu64dnv5Oay2b11" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring-Framework" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.BinarySearch" />
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.sorting.BubbleSorting" />
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EightQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.problem.EightQueens" />
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.sorting.InsertSorting" />
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.sorting.SelectSorting" />
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.SelectSorting" />
+        <item itemvalue="Application.InsertSorting" />
+        <item itemvalue="Application.BubbleSorting" />
+        <item itemvalue="Application.EightQueens" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44022221-f34f-48c1-9565-32490d8c35bd" name="Default Changelist" comment="" />
+      <created>1610184386466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610184386466</updated>
+      <workItem from="1610184389556" duration="11451000" />
+      <workItem from="1610627461232" duration="593000" />
+      <workItem from="1611384003714" duration="20140000" />
+      <workItem from="1611666463654" duration="2166000" />
+      <workItem from="1615990295297" duration="99000" />
+      <workItem from="1616061958870" duration="687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="191" key="FileChooserDialogImpl" timestamp="1616062666969">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="555" y="191" key="FileChooserDialogImpl/0.0.1549.871@0.0.1549.871" timestamp="1616062666969" />
+    <state width="1506" height="5" key="GridCell.Tab.0.bottom" timestamp="1611931688677">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="5" key="GridCell.Tab.0.bottom/0.0.1549.871@0.0.1549.871" timestamp="1611931688677" />
+    <state width="1506" height="5" key="GridCell.Tab.0.center" timestamp="1611931688677">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="5" key="GridCell.Tab.0.center/0.0.1549.871@0.0.1549.871" timestamp="1611931688677" />
+    <state width="1506" height="5" key="GridCell.Tab.0.left" timestamp="1611931688677">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="5" key="GridCell.Tab.0.left/0.0.1549.871@0.0.1549.871" timestamp="1611931688677" />
+    <state width="1506" height="5" key="GridCell.Tab.0.right" timestamp="1611931688677">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="5" key="GridCell.Tab.0.right/0.0.1549.871@0.0.1549.871" timestamp="1611931688677" />
+    <state width="1506" height="356" key="GridCell.Tab.1.bottom" timestamp="1611494902123">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="356" key="GridCell.Tab.1.bottom/0.0.1549.871@0.0.1549.871" timestamp="1611494902123" />
+    <state width="1506" height="356" key="GridCell.Tab.1.center" timestamp="1611494902122">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="356" key="GridCell.Tab.1.center/0.0.1549.871@0.0.1549.871" timestamp="1611494902122" />
+    <state width="1506" height="356" key="GridCell.Tab.1.left" timestamp="1611494902122">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="356" key="GridCell.Tab.1.left/0.0.1549.871@0.0.1549.871" timestamp="1611494902122" />
+    <state width="1506" height="356" key="GridCell.Tab.1.right" timestamp="1611494902122">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="356" key="GridCell.Tab.1.right/0.0.1549.871@0.0.1549.871" timestamp="1611494902122" />
+    <state x="527" y="21" width="1022" height="714" key="SettingsEditor" timestamp="1611386575715">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="527" y="21" width="1022" height="714" key="SettingsEditor/0.0.1549.871@0.0.1549.871" timestamp="1611386575715" />
+    <state x="432" y="199" key="run.anything.popup" timestamp="1611479410202">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="432" y="199" key="run.anything.popup/0.0.1549.871@0.0.1549.871" timestamp="1611479410202" />
+    <state x="437" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1611385279042">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="437" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1549.871@0.0.1549.871" timestamp="1611385279042" />
+  </component>
+</project>
